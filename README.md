@@ -1,3 +1,13 @@
+RTL8852AU for Ubuntu 24.04 LTS (Kernel 6.11.0-28-generic)
+
+This is a patched version of the original lwfinger/rtl8852au compatible with:
+
+Ubuntu 24.04.2 LTS
+Kernel: 6.11.0-28-generic
+USB ID: 2357:013f
+
+################################################################################
+
 This repo is was started with the code from the Realtek USB driver
 RTL8852AU_WiFi_linux_v1.15.0.1-0-g487ee886.20210714. The current code improves
 on the Realtek code by reworking the debug output to avoid spamming the logs.
