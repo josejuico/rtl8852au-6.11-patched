@@ -1,10 +1,12 @@
+################################################################################
+
 RTL8852AU for Ubuntu 24.04 LTS (Kernel 6.11.0-28-generic)
 
-This is a patched version of the original lwfinger/rtl8852au compatible with:
+This is a patched version of the original [`lwfinger/rtl8852au`](https://github.com/lwfinger/rtl8852au) compatible with:
 
-Ubuntu 24.04.2 LTS
-Kernel: 6.11.0-28-generic
-USB ID: 2357:013f
+* Ubuntu 24.04.2 LTS
+* Kernel: 6.11.0-28-generic
+* USB ID: 2357:013f
 
 ################################################################################
 
